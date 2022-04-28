@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning everything 😂
 - 🥅 2022 Goals: Learn more about blockchain.
 - ⚡ Fun fact: I love to draw and play guitar.
+---
 
 ### Connect with me:
 
@@ -14,7 +15,6 @@
 <a href="https://www.linkedin.com/in/yugesh-shilakar-7b89b0237/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="yugesh shilakar" height="60" width="60" /></a>
 <a href="https://www.twitter.com/YugeshShilakar/" target="blank"><img align="center" src="https://img.icons8.com/color/344/twitter.png" alt="yugesh shilakar" height="60" width="60" /></a>
 <a href="https://yugeshshilakar.com.np/" target="blank"><img align="center" src="https://img.icons8.com/color/344/link.png" alt="yugesh shilakar" height="60" width="60" /></a>
-
 ---
 ### Languages and Tools:
 
