@@ -9,17 +9,12 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://http://yugeshshilakar.com.np#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://http://yugeshshilakar.com.np#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/YugeshShilakar#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/YugeshShilakar#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yugesh-shilakar-7b89b0237/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yugesh-shilakar-7b89b0237/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/yugesh_shilakar/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/yugesh_shilakar/#gh-dark-mode-only)
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.facebook.com/yugesh.shilakar" target="blank"><img align="center" src="https://img.icons8.com/color/344/facebook-new.png" alt="yuesh shilakar" height="60" width="60" /></a>
+<a href="https://www.instagram.com/yugesh_shilakar/" target="blank"><img align="center" src="https://img.icons8.com/color/344/instagram-new--v1.png" alt="yuesh shilakar" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/yugesh-shilakar-7b89b0237/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="yuesh shilakar" height="60" width="60" /></a>
+</p>
 
 ### Languages and Tools:
 
