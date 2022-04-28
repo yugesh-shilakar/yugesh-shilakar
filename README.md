@@ -14,7 +14,6 @@
 <a href="https://www.linkedin.com/in/yugesh-shilakar-7b89b0237/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="yugesh shilakar" height="60" width="60" /></a>
 <a href="https://www.twitter.com/YugeshShilakar/" target="blank"><img align="center" src="https://img.icons8.com/color/344/twitter.png" alt="yugesh shilakar" height="60" width="60" /></a>
 <a href="https://yugeshshilakar.com.np/" target="blank"><img align="center" src="https://img.icons8.com/color/344/link.png" alt="yugesh shilakar" height="60" width="60" /></a>
-</p>
 ---
 ### Languages and Tools:
 
@@ -27,7 +26,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-<!-- [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />] -->
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 <br />
 <br />
 ---
