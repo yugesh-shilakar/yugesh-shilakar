@@ -15,6 +15,7 @@
 <a href="https://www.twitter.com/YugeshShilakar/" target="blank"><img align="center" src="https://img.icons8.com/color/344/twitter.png" alt="yugesh shilakar" height="60" width="60" /></a>
 <a href="https://yugeshshilakar.com.np/" target="blank"><img align="center" src="https://img.icons8.com/color/344/link.png" alt="yugesh shilakar" height="60" width="60" /></a>
 
+---
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
