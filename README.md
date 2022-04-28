@@ -9,9 +9,10 @@
 
 ### Connect with me:
 
-<a href="https://www.facebook.com/yugesh.shilakar" target="blank"><img align="center" src="https://img.icons8.com/color/344/facebook-new.png" alt="yuesh shilakar" height="60" width="60" /></a>
-<a href="https://www.instagram.com/yugesh_shilakar/" target="blank"><img align="center" src="https://img.icons8.com/color/344/instagram-new--v1.png" alt="yuesh shilakar" height="60" width="60" /></a>
-<a href="https://www.linkedin.com/in/yugesh-shilakar-7b89b0237/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="yuesh shilakar" height="60" width="60" /></a>
+<a href="https://www.facebook.com/yugesh.shilakar" target="blank"><img align="center" src="https://img.icons8.com/color/344/facebook-new.png" alt="yugesh shilakar" height="60" width="60" /></a>
+<a href="https://www.instagram.com/yugesh_shilakar/" target="blank"><img align="center" src="https://img.icons8.com/color/344/instagram-new--v1.png" alt="yugesh shilakar" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/yugesh-shilakar-7b89b0237/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="yugesh shilakar" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/YugeshShilakar/" target="blank"><img align="center" src="https://img.icons8.com/color/344/twitter.png" alt="yugesh shilakar" height="60" width="60" /></a>
 </p>
 
 ### Languages and Tools:
@@ -36,7 +37,4 @@
 ---
 
 
-[website]: https://yugeshshilakar.com.np
-[twitter]: https://twitter.com/YugeshShilakar/
-[instagram]: https://www.instagram.com/yugesh_shilakar/
-[linkedin]: https://www.linkedin.com/in/yugesh-shilakar-7b89b0237/
+
