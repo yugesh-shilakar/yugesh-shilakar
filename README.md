@@ -1,4 +1,4 @@
-
+![Visitor Count](https://profile-counter.glitch.me/yugesh-shilakar/count.svg)
 # HELLO FELLOW PROGRAMMERS !!👋 I'm Yugesh Shilakar 
 
 
