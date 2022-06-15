@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/yugesh-shilakar/count.svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugesh-shilakar" alt="yugesh-shilakar" /> </p>
 # HELLO FELLOW PROGRAMMERS !!👋 I'm Yugesh Shilakar 
 
