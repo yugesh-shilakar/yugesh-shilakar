@@ -37,6 +37,6 @@
 \
 \
 ![Anurag's github stats](https://github-readme-stats.spielers.vercel.app/api?username=yugesh-shilakar&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=yugesh-shilakar&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=yugesh-shilakar&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![](https://bit.ly/3O12tXm)
