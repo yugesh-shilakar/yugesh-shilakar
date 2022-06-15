@@ -1,6 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/yugesh-shilakar/count.svg)
 <div id="header" align="center">
-  <img src="" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 # HELLO FELLOW PROGRAMMERS !!👋 I'm Yugesh Shilakar 
 
