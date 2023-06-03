@@ -1,6 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugesh-shilakar" alt="yugesh-shilakar" /> </p>
-# HELLO FELLOW PROGRAMMERS !!👋 I'm Yugesh Shilakar 
+# HELLO FELLOW PROGRAMMERS !!
+👋 I'm Yugesh Shilakar 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
