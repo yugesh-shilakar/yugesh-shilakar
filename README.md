@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugesh-shilakar" alt="yugesh-shilakar" /> </p>
-# HELLO FELLOW PROGRAMMERS !!
-👋 I'm Yugesh Shilakar 
+<h1> HELLO FELLOW PROGRAMMERS </h1>
+</br><h3>👋 I'm Yugesh Shilakar </h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -42,6 +42,8 @@
 \
 \
 ![Anurag's github stats](https://github-readme-stats.spielers.vercel.app/api?username=yugesh-shilakar&show_icons=true&theme=chartreuse-dark)
+\
 [![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=yugesh-shilakar&layout=compact&theme=chartreuse-dark)](https://github.com/yugesh-shilakar/github-readme-stats)
+\
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yugesh-shilakar&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
