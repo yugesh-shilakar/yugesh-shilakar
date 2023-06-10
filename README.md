@@ -12,6 +12,11 @@
 - 🥅 2022 Goals: Learn more about blockchain.
 - ⚡ Fun fact: I love to draw and play guitar.
 ---
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/5cmrkbc64hkdyv21ez3907ogb)
+
+---
 
 ### Connect with me:
 
