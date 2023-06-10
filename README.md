@@ -1,7 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugesh-shilakar" alt="yugesh-shilakar" /> </p>
-<h1> HELLO FELLOW PROGRAMMERS </h1>
-</br><h3>👋 I'm Yugesh Shilakar </h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=4CF70C&width=435&lines=Hello+There%2C+Its+Yugesh+Raj+Shilakar;Welcome+to+my+Github+!" alt="Typing SVG" /></a>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -49,4 +48,5 @@
 [![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=yugesh-shilakar&layout=compact&theme=chartreuse-dark)](https://github.com/yugesh-shilakar/github-readme-stats)
 \
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yugesh-shilakar&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
