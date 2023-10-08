@@ -9,7 +9,7 @@
 ## I'm a Student, Artist and a mentor.
 
 - 🌱 I’m currently learning everything 😂
-- 🥅 Goals: Learn more about blockchain.
+- 🥅 Goals: Becoming full stack developer.
 - ⚡ Fun fact: I love to draw and play guitar.
 ---
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
