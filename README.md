@@ -8,7 +8,7 @@
 
 ## I'm a Student, Artist and a mentor.
 
-- 🌱 I’m currently learning everything 😂
+- 🌱 I’m currently learning .NET
 - 🥅 Goals: Becoming full stack developer.
 - ⚡ Fun fact: I love to draw and play guitar.
 ---
