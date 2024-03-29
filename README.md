@@ -86,7 +86,7 @@ postgresql, pgadmin, mysql, sqlite.
 TDD, BDD, DDD
 clean architecture, hexagonal architecture, onion architecture, mvc, mvvm.
 linux
--->
+--> 
 </details>
 
 <!-- 
