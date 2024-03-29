@@ -198,10 +198,9 @@ g.typingUnderline rect {
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="64" font-family="Helvetica" font-size=".12em" fill="white"
-      alignment-baseline="hanging" font-style="italic" > 
-  <textPath xlink:href="#descriptionTyping" >
-      Software Engineer, .NET Developer.
+<text x="0" y="0" font-family="Helvetica" font-size="12" fill="white" font-style="italic">
+  <textPath xlink:href="#descriptionTyping">
+    Software Engineer, .NET Developer.
   </textPath>
 </text>
 
