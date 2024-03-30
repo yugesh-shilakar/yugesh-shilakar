@@ -34,8 +34,8 @@
   <br/>
 
 ![.NET](https://img.shields.io/badge/.NET-7d37f0.svg?&style=flat&logo=.net&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=reactjs&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-13ef81.svg?&style=flat&logo=php&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-13ef81.svg?&style=flat&logo=react&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
