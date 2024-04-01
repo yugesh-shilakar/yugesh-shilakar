@@ -2,7 +2,7 @@
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
-
+<tr><td><a href="README_np.md"><img src="images/nepal-flag.png" height="13"> Nepali</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;About Me
