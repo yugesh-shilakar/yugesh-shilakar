@@ -30,7 +30,7 @@
 <hr/>
 
 <details>
-  <summary><b>:मैले कम गर्ने टेक्नोलोजी हरु:</b></summary>
+  <summary><b>मैले काम गर्ने टेक्नोलोजी हरु:</b></summary>
   <br/>
 
 ![.NET](https://img.shields.io/badge/.NET-7d37f0.svg?&style=flat&logo=.net&logoColor=white)&nbsp;
