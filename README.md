@@ -12,7 +12,7 @@
 &nbsp;Currently researching software architecture, development, and quality.\
 &nbsp;Passionate in Art ~ Music | Drawing/ Painting .\
 &nbsp;Coding since 2021.\
-&nbsp;Cv and Portfolio - [Click Here](https://yugesh.vercel.app).
+&nbsp;Cv and Portfolio - [Click Here](https://yugeshshilakar.com.np).
 
 
 <p align="center">
